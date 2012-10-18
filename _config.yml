@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+url: http://atalanta-systems.com
+title: Atalanta Systems Ltd
+subtitle: Agile Infrastructure Consultancy
+author: Stephen Nelson-Smith
+#simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -16,10 +16,10 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+#subscribe_rss: /atom.xml
+#subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+#email:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -60,7 +60,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # Github repositories
 github_user:
 github_repo_count: 0
-github_show_profile_link: true
+github_show_profile_link: false
 github_skip_forks: true
 
 # Twitter
@@ -69,7 +69,7 @@ twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
