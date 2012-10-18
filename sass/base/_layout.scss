@@ -42,7 +42,11 @@ $header-padding-bottom: 0em !default;
     }
   }
 }
+div.page-a {
+  text-align:left;
+  width: 768px;
 
+}
 body {
   -webkit-text-size-adjust: none;
   //max-width: $max-width;
