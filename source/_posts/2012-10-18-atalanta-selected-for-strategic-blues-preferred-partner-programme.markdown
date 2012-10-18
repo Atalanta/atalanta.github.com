@@ -1,5 +1,10 @@
-# Atalanta selected for Strategic Blue’s Preferred Partner Programme.
-
+---
+layout: post
+title: "Atalanta selected for Strategic Blue’s Preferred Partner Programme"
+date: 2012-10-18 21:52
+comments: false
+categories: news
+---
 Atalanta Systems is excited to announce that it has been selected as the first professional services consultancy to join Cloud Broker-Dealer Strategic Blue’s preferred partner programme.  Strategic Blue specialise in financial intermediation of the cloud, and are able to ensure Cloud buyers can purchase on terms which suit their own requirements, rather than those of the Cloud providers.  With established relationships with multiple Cloud vendors, Strategic Blue is also able to provide a single bill for multiple providers, and find the best cloud deals in an increasingly competitive market.
 
 Companies looking at moving to the cloud, or simply moving to a different cloud provider who more accurately meets their technical or financial requirements typically need help in making this idea a reality.  As experts in Cloud Automation, Atalanta Systems is able to migrate IT infrastructures from traditional in-house hosting to the cloud, or from one cloud provider to another.  Grounded in their expertise in Opscode’s leading automation framework, Chef, customers running Windows, Linux or even traditional Unix systems can have their infrastructures modelled as code, and then redeployed in one or more clouds appropriate to their requirements.

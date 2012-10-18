@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Atalanta Systems Ltd]]></title>
-  <link href="http://atalanta-systems.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: news | Atalanta Systems Ltd]]></title>
+  <link href="http://atalanta-systems.com/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://atalanta-systems.com/"/>
   <updated>2012-10-18T22:01:09+03:00</updated>
   <id>http://atalanta-systems.com/</id>

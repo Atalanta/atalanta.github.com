@@ -42,10 +42,9 @@ $header-padding-bottom: 0em !default;
     }
   }
 }
-div.page-a {
+div#content {
   text-align:left;
-  width: 768px;
-
+  width: 100%;
 }
 body {
   -webkit-text-size-adjust: none;
