@@ -111,9 +111,10 @@ blockquote {
   $bq-margin: 1.2em;
   font-style: italic;
   position: relative;
-  font-size: 1.2em;
+  font-size: 0.88em;
   line-height: 1.5em;
   padding-left: 1em;
+  margin-bottom: -10px;
   border-left: 4px solid rgba($text-color-light, .5);
   cite {
     font-style: italic;
