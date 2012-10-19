@@ -4,7 +4,7 @@ title: "about atalanta systems"
 footer: true
 ---
 ## Agile Infrastructure Consultancy
-=======
+
 If your core business depends on building and running software, you have two problems to solve, to stay competitive:
 
 
