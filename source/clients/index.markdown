@@ -3,6 +3,9 @@ layout: page
 title: "Some of our clients"
 footer: true
 ---
+
+![Our Clients](/images/cloud.png)
+
 ## What they say about us
 
 > "Atalanta Systems consultants provided expert advice and a practical approach to the ongoing implementation of a scalable Drupal website. Their agile approach helped us to adapt our architecture requirements to cope with predictable levels of change while helping us remain flexible enough for dealing with extreme traffic spikes. I will not hesitate to use Atalanta Systems again for projects requiring expert, agile infrastructure consulting."
