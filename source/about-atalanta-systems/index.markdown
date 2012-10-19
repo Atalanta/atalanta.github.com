@@ -4,12 +4,9 @@ title: "about atalanta systems"
 footer: true
 ---
 ## Agile Infrastructure Consultancy
-
-<<<<<<< HEAD
-If your core business depends on building and running software, you have two problems to solve in order to stay competitive:
 =======
 If your core business depends on building and running software, you have two problems to solve, to stay competitive:
->>>>>>> 5d8f5623f21f87311b93cc7501d3ccd64cd45b4d
+
 
 * How can you continue to innovate and get your ideas to market quickly?
 * How can you ensure the services you provide or depend on remain reliable, perform well, and stay secure?
