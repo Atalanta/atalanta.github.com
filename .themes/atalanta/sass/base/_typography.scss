@@ -1,6 +1,7 @@
 $blockquote: $type-border !default;
 $sans: "PT Sans", "Helvetica Neue", Arial, sans-serif !default;
-$serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
+//$serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
+$serif: "Helvetica Neue", Times, "Times New Roman", serif !default;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
 $heading-font-family: "Courier", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 $header-title-font-family: $heading-font-family !default;
@@ -110,9 +111,10 @@ blockquote {
   $bq-margin: 1.2em;
   font-style: italic;
   position: relative;
-  font-size: 1.2em;
+  font-size: 0.88em;
   line-height: 1.5em;
   padding-left: 1em;
+  margin-bottom: -10px;
   border-left: 4px solid rgba($text-color-light, .5);
   cite {
     font-style: italic;
