@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Atalanta Systems Ltd]]></title>
-
-  <link href="http://atalanta-systems.com/atom.xml" rel="self"/>
-  <link href="http://atalanta-systems.com/"/>
-  <updated>2012-10-19T15:17:31+01:00</updated>
-  <id>http://atalanta-systems.com/</id>
+  <link href="http://Atalanta.github.com/atom.xml" rel="self"/>
+  <link href="http://Atalanta.github.com/"/>
+  <updated>2012-10-20T00:50:00+03:00</updated>
+  <id>http://Atalanta.github.com/</id>
   <author>
     <name><![CDATA[Stephen Nelson-Smith]]></name>
     
@@ -16,10 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Atalanta selected for Strategic Blue’s Preferred Partner Programme]]></title>
-
-    <link href="http://atalanta-systems.com/blog/2012/10/18/atalanta-selected-for-strategic-blues-preferred-partner-programme/"/>
-    <updated>2012-10-18T21:52:00+01:00</updated>
-    <id>http://atalanta-systems.com/blog/2012/10/18/atalanta-selected-for-strategic-blues-preferred-partner-programme</id>
+    <link href="http://Atalanta.github.com/blog/2012/10/18/atalanta-selected-for-strategic-blues-preferred-partner-programme/"/>
+    <updated>2012-10-18T21:52:00+03:00</updated>
+    <id>http://Atalanta.github.com/blog/2012/10/18/atalanta-selected-for-strategic-blues-preferred-partner-programme</id>
     <content type="html"><![CDATA[<p>Atalanta Systems is excited to announce that it has been selected as the first professional services consultancy to join Cloud Broker-Dealer Strategic Blue’s preferred partner programme.  Strategic Blue specialise in financial intermediation of the cloud, and are able to ensure Cloud buyers can purchase on terms which suit their own requirements, rather than those of the Cloud providers.  With established relationships with multiple Cloud vendors, Strategic Blue is also able to provide a single bill for multiple providers, and find the best cloud deals in an increasingly competitive market.</p>
 
 <p>Companies looking at moving to the cloud, or simply moving to a different cloud provider who more accurately meets their technical or financial requirements typically need help in making this idea a reality.  As experts in Cloud Automation, Atalanta Systems is able to migrate IT infrastructures from traditional in-house hosting to the cloud, or from one cloud provider to another.  Grounded in their expertise in Opscode’s leading automation framework, Chef, customers running Windows, Linux or even traditional Unix systems can have their infrastructures modelled as code, and then redeployed in one or more clouds appropriate to their requirements.</p>
