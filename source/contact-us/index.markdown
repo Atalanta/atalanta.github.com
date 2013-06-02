@@ -4,7 +4,7 @@ title: "contact us"
 footer: true
 ---
 ## Atalanta Systems Ltd
-**Telephone:** +44 (0)1223 96 98 19  
+**Telephone:** 0844 544 7650
 **Email:** info@atalanta-systems.com  
 **Address:**
 > Welbeck, Hoads Hill  
