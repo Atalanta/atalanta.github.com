@@ -1,4 +1,5 @@
 .bundle
+bin
 .DS_Store
 .sass-cache
 .gist-cache
