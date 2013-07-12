@@ -6,11 +6,11 @@ footer: true
 ## Atalanta Systems Ltd
 
 * **Telephone:** 0844 544 7650
-* **Email:** info@atalanta-systems.com  
+* **Email:** info@atalanta-systems.com
+* **Skype:** atalanta.systems
+* **Twitter:** @atalantasystems
 * **Address:**
 > Welbeck, Hoads Hill  
 > Wickham, Hamshire  
 > PO17 5BX, UK  
 
-* **Skype:** atalanta.systems  
-* **Twitter:** @atalantasystems  
